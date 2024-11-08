@@ -1,2 +1,10 @@
 # ID-357-git-evaluation
-"Welcome to this repository! Here, we have created a simple home page that highlights Zehntech. Additionally, we have developed a login and registration page on a separate branch. Feel free to explore and contribute!" In this Index.html file we have displayed Zentech in the center of the page.
+
+## About the Project
+Welcome to this repository! In this project, we have created a simple home page that highlights Zehntech, with the Zehntech text centered on the page using CSS.
+
+Feel free to explore and contribute to the repository. The home page is designed to be displayed using a live server. 
+
+Zehntech Technologies Private Limited, Indore.
+
+---
